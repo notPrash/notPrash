@@ -1,27 +1,288 @@
-<h1 align="center">Hi 👋, I'm Prashant</h1>
-<h3 align="center">Into tech, AI, creative experiments, and building things that matter.</h3>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- PRASHANT // CYBERPUNK PROFILE README                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=notprash&label=Profile%20views&color=0e75b6&style=flat" alt="notprash" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=notprash" alt="notprash" /></a> </p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,35:101044,70:7B2CFF,100:00F5FF&height=230&section=header&text=PRASHANT&fontSize=68&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20%2F%20AI%20%2F%20CREATIVE%20TECH&descSize=15&descAlignY=59&descColor=00F5FF" />
 
-- 🔭 I’m currently working on **E-commerce Platform (In Development)**
+<br/>
 
-- 🌱 I’m currently learning **Modern Architecture, Machine Learning & Deep Learning**
+<a href="https://github.com/notprash">
+  <img src="https://img.shields.io/badge/GITHUB-notprash-0D1117?style=for-the-badge&logo=github&logoColor=00F5FF&labelColor=0D1117" alt="GitHub"/>
+</a>
+<a href="mailto:ravinarayanp99@gmail.com">
+  <img src="https://img.shields.io/badge/CONTACT-EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=FF00C8&labelColor=0D1117" alt="Email"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=notprash&style=for-the-badge&color=7B2CFF&label=PROFILE+VIEWS" alt="Profile views"/>
 
-- 💬 Ask me about **React, AI/ML, Deep Learning, Software Architecture & Tech Projects**
+<br/><br/>
 
-- 📫 How to reach me **ravinarayanp99@gmail.com**
+### `CURIOUS BY DESIGN. BUILDING WITH INTENT.`
 
-- ⚡ Fun fact **My curiosity has more tabs open than my browser**
+*Exploring the intersection of software, artificial intelligence, architecture, and creativity.*
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+<img src="https://img.shields.io/badge/STATUS-ALWAYS%20LEARNING-0D1117?style=flat-square&logo=github&logoColor=00F5FF" alt="Always learning"/>
+<img src="https://img.shields.io/badge/MODE-IDEA%20%3E%20BUILD%20%3E%20ITERATE-0D1117?style=flat-square&logo=probot&logoColor=FF00C8" alt="Build mode"/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=notprash&show_icons=true&locale=en&layout=compact" alt="notprash" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=notprash&show_icons=true&locale=en" alt="notprash" /></p>
+---
+
+## `01` // SYSTEM PROFILE
+
+Hey, I'm **Prashant** — a student, builder, and curious mind exploring the space where **technology meets creativity**.
+
+I'm interested in more than just writing code. I enjoy understanding how systems work, exploring modern software architecture, experimenting with AI, and turning ideas into real products.
+
+- 🔭 **Currently building:** An e-commerce platform *(in development)*
+- 🌱 **Currently learning:** Modern software architecture, Machine Learning and Deep Learning
+- 💬 **Ask me about:** React, AI/ML, software architecture and tech projects
+- 🎨 **Beyond code:** Creative experiments, visual design and fragrances
+- ⚡ **Fun fact:** My curiosity has more tabs open than my browser.
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### `CURRENT BUILD`
+
+🛠️
+
+**E-commerce Platform**
+
+Building the product before launch.
+
+</td>
+<td align="center" width="50%">
+
+### `CURRENT EXPLORATION`
+
+🧠
+
+**AI + Architecture**
+
+Learning how intelligent systems and modern software fit together.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## `02` // PROJECTS IN THE LAB
+
+*A selection of projects from my GitHub orbit.*
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ Capstone
+
+A web development project with a live deployment.
+
+[![Source](https://img.shields.io/badge/VIEW_SOURCE-00F5FF?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/notprash/capstone)
+
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-FF00C8?style=for-the-badge&logo=vercel&logoColor=FFFFFF)](https://capstone-six-olive.vercel.app/)
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ Portfolio
+
+A space for personal presentation and portfolio experiments.
+
+[![Source](https://img.shields.io/badge/VIEW_SOURCE-00F5FF?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/notprash/Portfolio)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ CHAtApp
+
+A chat application project in my development archive.
+
+[![Source](https://img.shields.io/badge/VIEW_SOURCE-00F5FF?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/notprash/CHAtApp)
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ E-commerce Platform
+
+My current work in progress. Developing the product and its foundations before launch.
+
+![In Development](https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-FF00C8?style=for-the-badge&logo=github&logoColor=FFFFFF)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+[![All Repositories](https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-101044?style=for-the-badge&logo=github&logoColor=00F5FF)](https://github.com/notprash?tab=repositories)
+
+</div>
+
+---
+
+## `03` // TECHNOLOGY MATRIX
+
+*Tools I work with, experiment with, or am exploring.*
+
+### ◈ Web & Interface
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,tailwind,framer,figma&perline=9" alt="Web and interface technologies"/>
+
+</div>
+
+### ◈ Backend, Databases & Infrastructure
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,mongodb,mysql,postgres,firebase,docker,aws,git,linux,postman&perline=9" alt="Backend and infrastructure technologies"/>
+
+</div>
+
+### ◈ AI, Data & Programming
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,matlab,java,cpp&perline=9" alt="AI, data science and programming technologies"/>
+
+</div>
+
+### ◈ Creative Tools
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=blender,ps,ai&perline=9" alt="Creative tools"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/ALSO_EXPLORING-Pandas%20%7C%20Oracle%20%7C%20Zapier-0D1117?style=flat-square&labelColor=0D1117&color=FF00C8" alt="Additional tools"/>
+
+</div>
+
+---
+
+## `04` // GITHUB ANALYTICS
+
+<div align="center">
+
+<a href="https://github.com/notprash?tab=repositories">
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fnotprash&query=%24.public_repos&label=PUBLIC%20REPOSITORIES&style=for-the-badge&logo=github&logoColor=00F5FF&labelColor=0D1117&color=00F5FF" alt="Public repositories"/>
+</a>
+
+<a href="https://github.com/notprash?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE-REPOSITORIES-0D1117?style=for-the-badge&logo=github&logoColor=FF00C8" alt="Explore repositories"/>
+</a>
+
+<br/><br/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=notprash&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF00C8&text_color=C9D1D9" alt="GitHub statistics"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notprash&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9" alt="Most used programming languages"/>
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=notprash&hide_border=true&background=0D1117&stroke=21262D&ring=FF00C8&fire=FFE66D&currStreakNum=00F5FF&sideNums=00F5FF&currStreakLabel=FF00C8&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak"/>
+
+</div>
+
+---
+
+## `05` // CONTRIBUTION ACTIVITY
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=notprash&theme=github_dark" alt="Contribution activity and commit graph"/>
+
+<br/><br/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=notprash&theme=github_dark&utcOffset=5.5" alt="Commit activity by time of day"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=notprash&theme=github_dark" alt="GitHub contribution statistics"/>
+
+</div>
+
+<sub>Analytics are generated by external services. Availability, refresh times, and the metrics shown may vary. Language distribution reflects repository contents, not proficiency.</sub>
+
+---
+
+## `06` // BEYOND THE TERMINAL
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🧠
+
+**Artificial Intelligence**
+
+Understanding how intelligent systems learn and work.
+
+</td>
+<td align="center" width="33%">
+
+### 🏗️
+
+**Software Architecture**
+
+Thinking beyond individual components to entire systems.
+
+</td>
+<td align="center" width="33%">
+
+### 🎨
+
+**Creative Exploration**
+
+Design, visual experiments, and the world of fragrance.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## `07` // ESTABLISH CONNECTION
+
+Have an interesting idea, a project to discuss, or something worth experimenting with?
+
+<div align="center">
+
+<a href="mailto:ravinarayanp99@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL_ME-FF00C8?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email me"/>
+</a>
+
+<a href="https://github.com/notprash">
+<img src="https://img.shields.io/badge/FOLLOW_ON_GITHUB-00F5FF?style=for-the-badge&logo=github&logoColor=000000" alt="Follow on GitHub"/>
+</a>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,40:7B2CFF,100:050816&height=120&section=footer" alt="Neon cyberpunk footer"/>
+
+### `END OF TRANSMISSION`
+
+**STAY CURIOUS. KEEP BUILDING.**
+
+<sub>Designed in the spirit of the future · Powered by curiosity.</sub>
+
+</div>
